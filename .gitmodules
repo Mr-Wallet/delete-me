@@ -1,6 +1,6 @@
-[submodule "find-git-repositories"]
-	path = find-git-repositories
-	url = https://github.com/implausible/find-git-repositories.git
 [submodule "find-git-repositories/hooks"]
 	path = find-git-repositories/hooks
+	url = https://github.com/implausible/find-git-repositories.git
+[submodule "find-git-repositories"]
+	path = find-git-repositories
 	url = https://github.com/implausible/find-git-repositories.git
